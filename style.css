@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Agrandir';
+  src: url(Agrandir/Agrandir-Regular.otf);
+}
+
+body {
+  background-image: linear-gradient(to right, #051937, #121637, #1d1336, #260e33, #2e082e);
+  font-family: 'Agrandir';
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: white;
+  font-size: 120px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 40px;
+}
+
+footer {
+  background-color:#000000;
+  margin-top: 500px;
+  padding: 10px;
+  font-size: 45px;
+  text-align: center;
+}
+
+#p1 {
+  font-size: 60px;
+}
+
+#copyright {
+  font-size: 35px;
+}
+
+.text-box {
+  margin-top: 100px;
+  font-size: 45px;
+  color: #ccc;
+  width: 50%; 
+  margin: 20px auto;
+  padding: 20px; 
+  border: 1px solid #ccc; 
+  border-radius: 40px;
+  box-sizing: border-box;
+  text-align: left; /
+}
